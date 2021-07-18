@@ -14,8 +14,6 @@ Given 12 different stocks, our goal was to analize the data given over a period 
 
 ### Overview of Project
 
-: Explain the purpose of this analysis.
-Summary: In a summary statement, address the following questions.
 1. What are the advantages or disadvantages of refactoring code?
   
   `One of the advantages of refactoring code is that the base work is there and all we have to do it tweak some things and solve a smaller portion of the problem rather than the entire problem. This is good because you can just focus on a narrowed problem rather than the whole.`
